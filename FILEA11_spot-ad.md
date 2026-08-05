@@ -14,7 +14,7 @@ Advised the core team behind **Spot Protocol** on the conceptualization, system 
 
 ## 🚀 Key Strategic Insights & Architectural Frameworks
 
-* **Asset Fractionalization Protocol:** Provided advisory on tokenomics structures and smart contract architectures that break down barriers to entry for high-value physical assets.
+* **Asset Fractionalization Protocol:** Provided advisory on smart contract architectures that break down barriers to entry for high-value physical assets.
 * **Multi-Domain RWA Models:** Architected tokenization strategies across a broad spectrum of real-world asset classes, including:
   * **Real Estate:** Property-backed token mechanics and fractional equity distribution.
   * **Fine Art & Collectibles:** On-chain provenance verification and fractional holding models.
