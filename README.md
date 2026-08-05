@@ -21,7 +21,7 @@ I help organizations turn complex technical and business challenges into viable,
 * **Current Work:** Visiting Faculty at **PES University** | Fractional CXO | Agripreneurship Tech & Historical/Management Research.
 
 ---
-
+ 
 ## 🎙️ The Fulmo Talk Series
 
 I hosted the Fulmo Talk Series. The Fulmo Talk Series hosted discussions on various topics related to technology, psychology, philosophy, history, and management strategy, including my own.
