@@ -39,6 +39,8 @@ I hosted the Fulmo Talk Series. The Fulmo Talk Series hosted discussions on vari
 
 Synthesized insights, strategic takeaways, and commentary on influential works across leadership, psychology, organizational strategy, history, and economics.
 
+Link to repo with additional information: https://github.com/fulmotalkseries-donotusethis/epistemic-notes/blob/main/README.md
+
 ---
 
 ## 💼 Executive Profile & Background
