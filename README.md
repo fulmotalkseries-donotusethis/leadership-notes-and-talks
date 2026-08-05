@@ -17,7 +17,7 @@ Social platforms like LinkedIn are great for quick updates, but complex ideas re
 I help organizations turn complex technical and business challenges into viable, scalable platforms that accelerate growth, reduce risk, and create durable competitive advantage.
 
 * **25+ Years Experience:** Spanning Microsoft, Oracle, startups, consulting, and academia.
-* **Core Domains:** Enterprise Architecture, AI Platforms, Database Technologies, High-Frequency Trading, and Digital Transformation.
+* **Core Domains:** Enterprise Architecture, AI Platforms, Database Technologies, Finance Platforms, and Digital Transformation.
 * **Current Work:** Visiting Faculty at **PES University** | Fractional CXO | Agripreneurship Tech & Historical/Management Research.
 
 ---
