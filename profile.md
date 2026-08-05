@@ -17,7 +17,7 @@ With 25+ years of experience spanning Microsoft, Oracle, startups, consulting, a
 ## 🎓 Education & Fellowships
 
 * **Stanford University** – Master of Science (M.S.), Management Science and Engineering (2011–2015)
-* **Harvard University** – Fellowship / Doctoral Studies, Computer & Information Technology Administration and Management / Business Administration (2007–2009)
+* **Harvard University** – Fellowship / Doctoral Studies, Technology and Operations Management / Business Administration (2007–2009)
 * **University of Wisconsin–Madison** – Master of Science (M.S.), Computer Science (1997–1998)
 * **Indian Institute of Technology (IIT), Madras** – Bachelor of Technology (B.Tech), Computer Science and Engineering (1993–1997)
 
