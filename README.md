@@ -24,7 +24,7 @@ I help organizations turn complex technical and business challenges into viable,
 
 ## 🎙️ The Fulmo Talk Series
 
-Discussions at the intersection of technology, finance, philosophy, history, and management strategy.
+I hosted the Fulmo Talk Series. The Fulmo Talk Series hosted discussions on various topics related to technology, psychology, philosophy, history, and management strategy.
 
 | Talk / Topic | Core Themes | Resources & Notes |
 | :--- | :--- | :--- |
