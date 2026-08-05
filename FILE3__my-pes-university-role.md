@@ -54,4 +54,4 @@ Below is the complete chronological overview of my professional timeline (as of 
 ## 🔗 Portfolios & Related Resources
 
 * 💼 **Professional Portfolio:** [https://bit.ly/3Hsylqd](https://bit.ly/3Hsylqd)
-* 💻 **GitHub Code Repositories:** [https://bit.ly/3K7hvP2](https://bit.ly/3K7hvP2)
+* 💻 **GitHub Code Repositories:** [https://https://github.com/delphicventurescode/)
