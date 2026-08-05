@@ -35,7 +35,7 @@ I hosted the Fulmo Talk Series. The Fulmo Talk Series hosted discussions on vari
 | **Obsolete But Not Forgotten** | Viswanath Mallabadi | Using e-Waste to create art | [Watch Video](https://www.youtube.com/watch?v=FXSoytGXoto&t=42s) | Fulmo Talk Series Talk |
 
 ---
-These are just a few of the talks featured in the Talk Series. Go to the Fulmo Talk Series website for more.
+These are just a few of the talks featured in the Talk Series. Go to the Fulmo Talk Series website for more talks and leadership insights.
 ---
 
 ## 📚 Executive Book Summaries & Leadership Notes
