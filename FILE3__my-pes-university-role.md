@@ -29,7 +29,7 @@ This teaching role was executed in parallel with my responsibilities as Chief Te
 
 As my career has diversified since moving back to India in 2019, I have worn multiple strategic hats—often simultaneously across executive leadership, advisory, research, and academia. 
 
-Below is the complete chronological overview of my professional timeline:
+Below is the complete chronological overview of my professional timeline (as of Aug 2026):
 
 | Role | Organization / Institution | Timeline |
 | :--- | :--- | :--- |
