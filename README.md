@@ -64,8 +64,9 @@ Link to repo with additional information: https://github.com/fulmotalkseries-don
 * Published papers in premier peer-reviewed venues including **VLDB, JPDC, ADCOMP, and ICDE**.
 * Active research spanning management systems, history, philosophy, and agricultural technology.
 
-</details>
+👉 **[Read the complete Executive Profile & Detailed Career Timeline](./profile.md)**
 
+</details>
 ---
 
 ## 🔗 Quick Links & Full History
