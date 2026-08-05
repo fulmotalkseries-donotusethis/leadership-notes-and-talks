@@ -43,10 +43,10 @@ The 2025 and 2026 series brought together a distinguished roster of global thoug
 * **Talk Title:** *Designing Joy: Ancient Tamil Wisdom, Gxoja Filozofio & Computational Thinking*
 * **Core Themes:** Integrates ancient Tamil literature, happiness research, and computational thinking. Introduces **La Joya Filozofio** (The Happy Philosophy)—a novel philosophy designed as a rival to ancient Stoicism/Epicureanism and modern Existentialism—while challenging colonial readings of South Asian history. *(Sponsored in association with IEEE and ACM Societies)*.
 
-### 3. 🔬 Prof. Sanjiv Chopra
-* **Background:** Professor of Medicine and former Faculty Dean for Continuing Medical Education at Harvard Medical School; best-selling author.
-* **Talk Title:** *The Science of Longevity and Purpose*
-* **Core Themes:** Evidence-based medical insights on living a healthier, purpose-driven, and meaningful life.
+### 3. ⚡ Dr. Jacob Verghese
+* **Background:** Energy expert, Indian Railways veteran, and Founder Director of Steag Energy Services India.
+* **Talk Title:** *Energy Systems & Strategic Infrastructure*
+* **Core Themes:** Sustainable energy infrastructure, technical leadership, and global project execution.
 
 ### 4. 🚆 Dr. Sudhanshu Mani
 * **Background:** Visionary engineer and architect of India's iconic Vande Bharat Express; leader in rail technology, heritage, and visual arts.
@@ -67,11 +67,6 @@ The 2025 and 2026 series brought together a distinguished roster of global thoug
 * **Background:** High-performance coach and wellness educator.
 * **Talk Title:** *Mind, Body, and Sustainable High Performance*
 * **Core Themes:** Actionable strategies for physical/mental control as the foundational catalyst for career, health, and relationship success.
-
-### 8. ⚡ Dr. Jacob Verghese
-* **Background:** Energy expert, Indian Railways veteran, and Founder Director of Steag Energy Services India.
-* **Talk Title:** *Energy Systems & Strategic Infrastructure*
-* **Core Themes:** Sustainable energy infrastructure, technical leadership, and global project execution.
 
 ---
 
