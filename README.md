@@ -38,12 +38,6 @@ I hosted the Fulmo Talk Series. The Fulmo Talk Series hosted discussions on vari
 
 Synthesized insights, strategic takeaways, and commentary on influential works across leadership, psychology, organizational strategy, history, and economics.
 
-* 📖 **[Fusion Strategy]** by *[Vijay Govindarajan]* – Key takeaways on strategy and execution. *(Coming Soon / [Link](./notes/book-01.md))*
-* 📖 **[Indistractable]** by *[Nir Eyal]* – Key takeaways on strategy and execution. *(Coming Soon / [Link](./notes/book-01.md))*
-* 📖 **[The How of Happiness]** by *[Sonja Lyubomirsky]* – Applied frameworks for engineering leadership. *(Coming Soon / [Link](./notes/book-02.md))*
-* 📖 **[The Clever Elsa Principle]** by *[Anand Manikutty & Amita Roy]* – Lessons in productivity and mental wellness. *(Coming Soon / [Link](./notes/book-03.md))*
-* 📖 **[Epistemika]** by *[Anand Manikutty]* – Lessons in organizational design and resilience. *(Coming Soon / [Link](./notes/book-03.md))*
-
 ---
 
 ## 💼 Executive Profile & Background
