@@ -11,7 +11,7 @@
 
 Co-founded ***Namaste Bharat*** magazine—a global publication created to amplify the stories, achievements, and cultural heritage of the global Indian diaspora. The publication subsequently expanded its editorial scope and reach, evolving into ***Pravasi Indians*** magazine.
 
-This role bridged cultural journalism, strategic communications, community building, and digital audience growth across international boundaries.
+This role bridged cultural journalism, community building, and digital audience growth across international boundaries.
 
 ---
 
