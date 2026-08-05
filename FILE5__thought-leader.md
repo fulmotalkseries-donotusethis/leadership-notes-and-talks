@@ -16,11 +16,11 @@ Through guest lectures, academic keynotes, and tailored coursework, I equip univ
 
 ## 🏛️ Invited Lectures, Talks & Institutional Engagement
 
-Delivered keynote sessions, workshops, and invited talks across premier institutions, professional societies, and community organizations:
+Delivered keynote sessions, seminars, workshops, and invited talks across premier institutions, professional societies, and community organizations:
 
-* **IIT Madras:** Campus workshops on mental wellness and resilience for engineering students.
-* **IEEE Society & ACM Society:** Academic keynotes bridging computational thinking, ancient wisdom, and happiness research.
-* **PES University:** Special lectures and course delivery on technology decision-making and well-being.
+* **IEEE Society & ACM Society:** Academic seminars bridging computational thinking, ancient wisdom, and happiness research.
+* **IIT Madras:** Guest lecture on mental wellness and resilience for engineering students.
+* **PES University:** Guest lecture and, later, course delivery on technology decision-making, well-being, strategic management and brand management.
 * **Rotaract Club & Youth Forums:** Community leadership talks on student stress management and social impact.
 
 ---
