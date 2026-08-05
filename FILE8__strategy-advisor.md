@@ -9,7 +9,7 @@
 
 ## 📌 Role Overview
 
-Served as a Strategy Advisor for **MaxedS**, a Chicago-based technology sales firm. Combined strategic positioning with hands-on business development and software architecture—guiding corporate outreach strategies while engineering specialized software tools to optimize sales workflows and team performance.
+Served as a Strategy Advisor for **MaxedS**, a Chicago-based technology sales firm. Combined strategic positioning and sales (for MaxedS) with hands-on business development and software architecture (for Qwykr Technologies)—guiding corporate outreach strategies while engineering specialized software tools to optimize sales workflows and team performance.
 
 ---
 
