@@ -67,13 +67,13 @@ Synthesized insights, strategic takeaways, and commentary on influential works a
 
 ## 🔗 Quick Links & Full History
 
-* **Complete Position History:** [PES University Profile & CV](http://bit.ly/4h9tmKo)
 * **Professional Portfolio:** [Portfolio Hub](https://bit.ly/3Hsylqd)
-* **Experimental Code & Repos:** [GitHub Overview](https://bit.ly/3K7hvP2)
-
+* **Experimental Code & Repos:** [GitHub Overview](https://github.com/delphicventurescode)
 ---
 
 ## 📬 Connect & Engage
 
-* **LinkedIn:** [Insert LinkedIn Profile URL]
-* **Talk Inquiries & Feedback:** [Insert Contact Method]
+* **LinkedIn:** [(https://www.linkedin.com/in/anandstanford/)]
+* **Talk Inquiries & Feedback:** [Via my Stanford email address]
+
+---
