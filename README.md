@@ -24,7 +24,7 @@ I help organizations turn complex technical and business challenges into viable,
 
 ## 🎙️ The Fulmo Talk Series
 
-I hosted the Fulmo Talk Series. The Fulmo Talk Series hosted discussions on various topics related to technology, psychology, philosophy, history, and management strategy.
+I hosted the Fulmo Talk Series. The Fulmo Talk Series hosted discussions on various topics related to technology, psychology, philosophy, history, and management strategy, including my own.
 
 | Talk / Topic | Core Themes | Resources & Notes |
 | :--- | :--- | :--- |
@@ -36,11 +36,13 @@ I hosted the Fulmo Talk Series. The Fulmo Talk Series hosted discussions on vari
 
 ## 📚 Executive Book Summaries & Leadership Notes
 
-Synthesized insights, strategic takeaways, and commentary on influential works across leadership, organizational strategy, history, and economics.
+Synthesized insights, strategic takeaways, and commentary on influential works across leadership, psychology, organizational strategy, history, and economics.
 
-* 📖 **[Book Title 1]** by *[Author]* – Key takeaways on strategy and execution. *(Coming Soon / [Link](./notes/book-01.md))*
-* 📖 **[Book Title 2]** by *[Author]* – Applied frameworks for engineering leadership. *(Coming Soon / [Link](./notes/book-02.md))*
-* 📖 **[Book Title 3]** by *[Author]* – Lessons in organizational design and resilience. *(Coming Soon / [Link](./notes/book-03.md))*
+* 📖 **[Fusion Strategy]** by *[Vijay Govindarajan]* – Key takeaways on strategy and execution. *(Coming Soon / [Link](./notes/book-01.md))*
+* 📖 **[Indistractable]** by *[Nir Eyal]* – Key takeaways on strategy and execution. *(Coming Soon / [Link](./notes/book-01.md))*
+* 📖 **[The How of Happiness]** by *[Sonja Lyubomirsky]* – Applied frameworks for engineering leadership. *(Coming Soon / [Link](./notes/book-02.md))*
+* 📖 **[The Clever Elsa Principle]** by *[Anand Manikutty & Amita Roy]* – Lessons in productivity and mental wellness. *(Coming Soon / [Link](./notes/book-03.md))*
+* 📖 **[Epistemika]** by *[Anand Manikutty]* – Lessons in organizational design and resilience. *(Coming Soon / [Link](./notes/book-03.md))*
 
 ---
 
