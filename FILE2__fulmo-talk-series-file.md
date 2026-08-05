@@ -85,5 +85,6 @@ The technological platforms and research frameworks supporting the Fulmo Talk Se
 ## 📚 Connected Resources & Substack
 
 * 📄 **Slide Deck (Designing Joy):** [bit.ly/4fh1p0k](http://bit.ly/4fh1p0k)
-* 📝 **Substack (Epistemika Mensa):** Companion publication exploring mental wellness, philosophy, and learning systems.
+* 📝 **Substack (Epistemika Mensa):** Companion publication exploring mental wellness, subjective wellbeing, and systems.
+* 📝 **Book (Epistemika):** Companion publication.
 * 🛠️ **Fulmo Frugal Tech:** Open-access repository for transparent, low-footprint well-being software and educational frameworks.
