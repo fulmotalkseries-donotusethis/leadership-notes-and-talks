@@ -28,10 +28,12 @@ I hosted the Fulmo Talk Series. The Fulmo Talk Series hosted discussions on vari
 
 
 | Talk / Topic | Speaker | Core Themes | YouTube Link | Resources & Notes |
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- | :--- |
+
 | **How to be Happier, Backed by Science** | Sonja Lyubomirsky | Tips on Happiness, from Science & Research | [Watch Video](https://www.youtube.com/watch?v=VN4qp0GbB7s&t=2s) | Fulmo Talk Series talk |
 | **Designing Joy** | Anand Manikutty | Ancient wisdom, modern happiness, and computation. | — | [Watch Video](https://www.youtube.com/watch?v=wmmMhqwI40Y) | Fulmo Talk Series Talk |
-| **[Talk Title 3]** | Tech in Agripreneurship & Philosophy | — | [Read Notes](./talks/talk-03.md) |
+| **Obsolete But Not Forgotten** | Viswanath Mallabadi | Tech in Agripreneurship & Philosophy | — | [Watch Video](https://www.youtube.com/watch?v=FXSoytGXoto&t=42s) | Fulmo Talk Series Talk |
+| **Obsolete But Not Forgotten** | Anand Manikutty | Tech in Agripreneurship & Philosophy | — | [Watch Video](https://www.youtube.com/watch?v=FXSoytGXoto&t=42s) | IEEE Talk Series Talk |
 
 ---
 
