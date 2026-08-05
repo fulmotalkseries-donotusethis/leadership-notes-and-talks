@@ -13,8 +13,8 @@ Served as an Adjunct Professor delivering industry-aligned computer science and 
 
 ## 📚 Courses Taught
 
-* **CS 101: Introduction to Computer Programming:** Instructed foundational logic, algorithmic design, structural programming principles, and data-driven problem-solving through project-based coding assignments.
-* **IT 102: Computer Repair and Maintenance:** Taught core hardware architectures, system diagnostics, operating system configuration, network interfaces, and hardware-level troubleshooting.
+* **Introduction to Computer Programming:** Instructed foundational logic, algorithmic design, structural programming principles, and data-driven problem-solving through project-based coding assignments.
+* **Computer Repair and Maintenance:** Taught core hardware architectures, system diagnostics, operating system configuration, network interfaces, and hardware-level troubleshooting.
 
 ---
 
