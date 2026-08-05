@@ -2,8 +2,8 @@
 
 **Institution:** PES University (Department of Management Studies / MBA Program)  
 **Location:** Bengaluru, India  
-**Duration:** October 2025 – June 2026  
-**Primary Focus:** Enterprise Systems, Strategic Technology Decision-Making, & Educational Innovation  
+**Duration:** October 2025 – Present (as of Aug 2026)  
+**Primary Focus:** Brand Management, Strategic Management
 
 ---
 
@@ -11,7 +11,7 @@
 
 With a deep foundation in enterprise software design, technology leadership, and database infrastructure, I specialize in teaching strategic, technology-driven decision-making to MBA candidates. 
 
-My work focuses on designing and delivering courses and educational materials that **bridge academic theory with real-world business practice**, leveraging 25+ years of industry experience across global technology leaders (Microsoft, Oracle), startups, and consulting.
+My work focuses on designing and delivering courses and educational materials that **bridge academic theory with real-world business practice**, leveraging 25+ years of industry experience across global technology leaders (Microsoft, Oracle), startups, and consulting. Courses I taught include: Brand Management, Data & Decisions, and Strategic Management.
 
 This teaching role was executed in parallel with my responsibilities as Chief Technology Officer at **Fulmo Technologies**.
 
