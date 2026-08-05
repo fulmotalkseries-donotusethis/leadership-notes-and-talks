@@ -21,6 +21,9 @@ Provided high-level technology consulting, business strategy, and architecture a
   * **Microsoft for Startups**
   * **Google for Startups**
   * **Wadhwani Foundation's IGNITE Program**
+  * **IIM Bangalore NSR CEL's WSP Program**
+  * **Xartup for Startups**
+  
 * **Impact-Driven Frameworks (RALPH Platform):** Led the architectural development of low-cost, open-access technology frameworks—including the **RALPH** platform—prioritizing social utility, academic collaboration, and transparent tech over purely commercial ends. Engaged directly with international researchers, including two Nobel Laureates, to review and validate these platforms.
 
 ---
