@@ -4,7 +4,9 @@
 
 Welcome! This repository serves as an extended content hub and deep-dive resource for my professional work, executive insights, research, and the **Fulmo Talk Series**. 
 
-Social platforms like LinkedIn are great for quick updates, but complex ideas require space. Here, you will find full-length essays, talk outlines, book summaries, research notes, and supporting code—free from character limits.
+This repository will point to my leadership experience, various notes collected over the years, and links to talks I have given or hosted.
+
+Social platforms like LinkedIn are great for quick updates, but complex ideas require space. In linked resources, you will find full-length essays, talk outlines, book summaries, research notes, and supporting code—free from character limits.
 
 ---
 
