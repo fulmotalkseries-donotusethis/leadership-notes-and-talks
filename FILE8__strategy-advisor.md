@@ -15,8 +15,8 @@ Served as a Strategy Advisor for **MaxedS**, a Chicago-based technology sales fi
 
 ## 🎯 Strategic Initiatives & Business Development
 
-* **B2B Outreach & Enterprise Pipeline:** Led high-value sales enablement and business development initiatives targeting enterprise technology firms, including strategic outreach to companies such as **Abzooba**.
-* **Sales Architecture Integration:** Merged enterprise strategy with hands-on software development to streamline client acquisition and CRM operations.
+* **B2B Outreach & Enterprise Pipeline (for MaxedS):** Led high-value sales enablement and business development initiatives targeting enterprise technology firms, including strategic outreach to companies such as **Abzooba**.
+* **Sales Architecture Integration  (for Qwykr):** Merged enterprise strategy with hands-on software development to streamline client acquisition and CRM operations.
 
 ---
 
