@@ -29,7 +29,7 @@ I hosted the Fulmo Talk Series. The Fulmo Talk Series hosted discussions on vari
 
 | Talk / Topic | Core Themes | YouTube Link | Resources & Notes |
 | :--- | :--- | :--- | :--- |
-| **How to be Happier, Backed by Science** | Tips on Happiness, from Science, Research | [Watch Video](https://www.youtube.com/watch?v=VN4qp0GbB7s&t=2s) | _ |
+| **How to be Happier, Backed by Science** | Tips on Happiness, from Science & Research | [Watch Video](https://www.youtube.com/watch?v=VN4qp0GbB7s&t=2s) | _ |
 | **[Talk Title 2]** | Financial Strategy & Platform Growth | — | [Read Notes](./talks/talk-02.md) |
 | **[Talk Title 3]** | Tech in Agripreneurship & Philosophy | — | [Read Notes](./talks/talk-03.md) |
 
