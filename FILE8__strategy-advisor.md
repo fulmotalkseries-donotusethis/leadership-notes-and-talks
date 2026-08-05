@@ -25,7 +25,7 @@ Served as a Strategy Advisor for **MaxedS**, a Chicago-based technology sales fi
 During this tenure, designed and engineered a suite of specialized software platforms, CRMs, and web applications that later fed into broader educational and enterprise frameworks:
 
 * **Konekto CRM & Retrograms CRM:** Developed specialized customer relationship management platforms designed to optimize outreach pipelines, lead tracking, and high-velocity B2B sales cycles.
-* **Kagazi Platform:** Built **Kagazi** ([kagazi-sito.onrender.com](https://kagazi-sito.onrender.com/)), a web application designed for streamlined documentation and digital workflow management.
+* **Kagazi Platform:** Built **Kagazi** ([kagazi-sito.onrender.com](https://kagazi-sito.onrender.com/)), a web application designed for tailoring services in South India.
 * **La Gxoja Tracker (Sentimento):** Created **Sentimento** ([sen1-sentimento-replit-app-priv.onrender.com](https://sen1-sentimento-replit-app-priv.onrender.com/)), a happiness and subjective well-being tracking platform designed to evaluate mental wellness dynamics across high-pressure environments—ranging from B2B tech sales teams to academic institutions.
 
 ---
