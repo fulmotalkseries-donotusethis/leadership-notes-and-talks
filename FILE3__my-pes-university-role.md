@@ -19,7 +19,7 @@ This teaching role was executed in parallel with my responsibilities as Chief Te
 
 ## 💡 Academic Core Focus & Pedagogy
 
-* **Strategic Technology Management:** Translating complex technical concepts—such as distributed architecture, AI platforms, database systems, and cloud infrastructure—into actionable business and management strategies for future corporate leaders.
+* **Strategic Technology Management:** Translating complex technical concepts—such as the GE-McKinsey matrix, the BCG matrix and Brand Portfolios—into actionable business and management strategies for future corporate leaders.
 * **Theory to Practice:** Structuring coursework around real-world enterprise software challenges, system scale, risk mitigation, and value creation.
 * **Interdisciplinary Learning:** Combining insights from computer science, financial strategy, management research, and cognitive psychology to train well-rounded, adaptive decision-makers.
 
